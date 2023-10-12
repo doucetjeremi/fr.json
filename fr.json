@@ -2,7 +2,7 @@
     "page": {
         "index": {
             "language": {
-                "value": "Language",
+                "value": "Lanuage",
                 "_context": "Indicates to the user that they should select a 'Language' for the application"
             },
             "book": {
